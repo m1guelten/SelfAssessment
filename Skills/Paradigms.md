@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming k
   - Imperative programming
   - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Non-structured programming k
+  - Functional programming k
+  - Prototype-based programming k
+  - Object-oriented programming k
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming k
+  - Parallel programming k
+  - Reactive programming k
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,20 +27,20 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method k
+  - Getters, Setters u
+  - Public fields u
+  - Private fields k
+  - Field declarations k
+  - Inheritance k
   - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
+  - Polymorphism k
+  - Abstract class k
+  - Interface k
   - Encapsulation
   - Hidden class
   - Object form
@@ -50,9 +50,9 @@
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator
-  - Controller
-  - Indirection
+  - Creator k
+  - Controller k
+  - Indirection k
   - Low coupling
   - High cohesion
   - Protected variations
@@ -71,11 +71,11 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy k
   - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
+  - Command k
+  - Iterator u
+  - State k
   - Bridge
   - Builder
   - Prototype

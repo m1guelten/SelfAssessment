@@ -14,66 +14,66 @@
   - Programming language
   - Contract
   - Module: 👂 heard
-  - Library
+  - Library k
   - Package
-  - Component
-  - Framework
+  - Component k
+  - Framework k
   - Platform
   - Source code
   - Object code
   - Machine code
-  - Microcode
+  - Microcode k
   - Software engineering
   - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Control flow k
+  - Data flow k
+  - Code reuse k
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Value k
+  - Identifier k
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap h
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event k
+  - Type u
+  - Flag u
+  - Lexical scope k
+  - Code block k
+  - Conditions k
+  - Loops k
+  - Assignment u
   - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
+  - Interface u
+  - Namespaces k
+  - Call stack u
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early u
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
+  - Primitive types k
+  - Reference types k
+  - Type systems k
+  - Strong typing k
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing k
+  - Dynamic typing k
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,92 +81,92 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects u
+  - Closure k
   - Partial application
-  - Currying
+  - Currying k
   - Higher order
-  - Recursion
+  - Recursion k
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback u
+  - Listener u
+  - Composition k
+  - Pipe k
   - Memoize
-  - Wrapper
-  - Functor
-  - Monad
+  - Wrapper k
+  - Functor k
+  - Monad k
   - Monoid
-  - Generator
+  - Generator u
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array u
+  - Structure u
+  - Record u
+  - Enum k
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table k
+  - Linked list k
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue k
+  - Stack k
   - Deque
-  - Tree
+  - Tree k
   - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
+  - Iterator k
+  - Mutable state k
+  - Immutable state k
   - Serialization
   - String parsing
-  - JSON
+  - JSON k
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - IPv4 h
+  - IPv6 h
+  - NAT h
+  - URL u
+  - URN u
+  - URI u
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
+  - Polyfill k
+  - Interpreter k
+  - Linker k
+  - Dynamic linking k
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Debugger u
+  - Tracing k
+  - Garbage collection k
+  - Refactoring u
+  - Code review u
   - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Unittesting kk
+  - git u
+  - Github u
+  - Docker u
   - Kubernetes
   - GCC
   - LLVM
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti h
   - Silver bullet
   - Not invented here
   - Dead code
@@ -209,23 +209,23 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers k
+  - Kernel k
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux u
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII u
   - Escape sequence
-  - RFC
-  - IETF
+  - RFC u
+  - IETF k
   - IANA
   - IEEE
   - Base64
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG

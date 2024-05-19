@@ -6,14 +6,14 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules k
+  - ECMAScript modules k
+  - Module `node:module` h
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments h
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -62,22 +62,22 @@
 - Network
   - Endpoint throttling
   - ALPN
-  - SNI callback
+  - SNI callback h
   - SSL certificates
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S) k
+  - TCP/SSL h
+  - UDP h
+  - TLS h
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) h
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing h
   - DoS
   - DDoS
   - XSS
@@ -98,8 +98,8 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer u
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -125,9 +125,9 @@
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - Native addons h
+  - `C` and `C++` addons u
+  - `Rust` addons k
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)

@@ -1,33 +1,33 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - `try..catch`: 🎓 known
+  - Event loop: h
+  - `try..catch`: u
   - Non-blocking
   - Async I/O: 👂 heard
-  - Thread pool
+  - Thread pool h
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue
+  - kqueue h
   - Completion ports
-  - Event ports
+  - Event ports h
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks h
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread h
+  - Process h
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Promise h
+  - Async/await u
+  - Future h
   - Deferred
   - Sync generator
   - Async Generator
@@ -35,7 +35,7 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal k
   - Stream
   - Chain of responsibility
   - Middleware
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library h
   - RxJS library
   - Promise.all
   - Promise.allSettled
