@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
-  - `try..catch` k
+  - Event loop: 👂 heard
+  - `try..catch`: 🎓 known
   - Non-blocking
-  - Async I/O h
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations

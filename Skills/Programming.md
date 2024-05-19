@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax h
-  - Semantics h
+  - Algorithm: 👂 heard
+  - Syntax: 👂 heard
+  - Semantics: 👂 heard
   - Abstraction
-  - Paradigm h
-  - Programm h
+  - Paradigm: 👂 heard
+  - Programm: 👂 heard
   - Programming paradigm
   - Programming language
   - Contract
-  - Module h
+  - Module: 👂 heard
   - Library
   - Package
   - Component
