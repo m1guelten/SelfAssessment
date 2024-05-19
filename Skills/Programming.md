@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm h
+  - Syntax h
+  - Semantics h
   - Abstraction
-  - Paradigm
-  - Programm
+  - Paradigm h
+  - Programm h
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
+  - Module h
   - Library
   - Package
   - Component
