@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
+  - Procedural programming: 🎓 known
   - Imperative programming
   - Structured programming
-  - Non-structured programming k
-  - Functional programming k
-  - Prototype-based programming k
-  - Object-oriented programming k
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming k
-  - Parallel programming k
-  - Reactive programming k
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,20 +27,20 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method k
-  - Getters, Setters u
-  - Public fields u
-  - Private fields k
-  - Field declarations k
-  - Inheritance k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
   - Parent class
-  - Polymorphism k
-  - Abstract class k
-  - Interface k
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class
   - Object form
@@ -50,9 +50,9 @@
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator k
-  - Controller k
-  - Indirection k
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
   - Low coupling
   - High cohesion
   - Protected variations
@@ -71,11 +71,11 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy k
+  - Proxy: 🎓 known
   - Chain of Responsibility
-  - Command k
-  - Iterator u
-  - State k
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
+  - State: 🎓 known
   - Bridge
   - Builder
   - Prototype

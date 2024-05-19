@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
-  - Migrations h
+  - Migrations: 👂 heard
   - Schema versioning
   - Backup and recovery
   - Database scalability
