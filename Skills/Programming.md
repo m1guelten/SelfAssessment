@@ -14,66 +14,66 @@
   - Programming language
   - Contract
   - Module: 👂 heard
-  - Library
+  - Library: 🎓 known
   - Package
-  - Component
-  - Framework
+  - Component: 🎓 known
+  - Framework: 🎓 known
   - Platform
   - Source code
   - Object code
   - Machine code
-  - Microcode
+  - Microcode: 🎓 known
   - Software engineering
   - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Control flow: 🎓 known
+  - Data flow: 🎓 known
+  - Code reuse: 🎓 known
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 👂 heard
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 🎓 known
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 🎓 known
+  - Code block: 🎓 known
+  - Conditions: 🎓 known
+  - Loops: 🎓 known
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
+  - Interface: 🖐️ used
+  - Namespaces: 🎓 known
+  - Call stack: 🖐️ used
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
+  - Primitive types: 🎓 known
+  - Reference types: 🎓 known
+  - Type systems: 🎓 known
+  - Strong typing: 🎓 known
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,92 +81,92 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🖐️ used
+  - Closure: 🎓 known
   - Partial application
-  - Currying
+  - Currying: 🎓 known
   - Higher order
-  - Recursion
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
+  - Composition: 🎓 known
+  - Pipe: 🎓 known
   - Memoize
-  - Wrapper
-  - Functor
-  - Monad
+  - Wrapper: 🎓 known
+  - Functor: 🎓 known
+  - Monad: 🎓 known
   - Monoid
-  - Generator
+  - Generator: 🖐️ used
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record: 🖐️ used
+  - Enum: 🎓 known
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 🎓 known
+  - Stack: 🎓 known
   - Deque
-  - Tree
+  - Tree: 🎓 known
   - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
+  - Iterator: 🎓 known
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
-  - URN
-  - URI
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 🖐️ used
+  - URN: 🖐️ used
+  - URI: 🖐️ used
 - Process and tools
-  - Compiler
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
-  - Dynamic linking
+  - Polyfill: 🎓 known
+  - Interpreter: 🎓 known
+  - Linker: 🎓 known
+  - Dynamic linking: 🎓 known
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Debugger: 🖐️ used
+  - Tracing: 🎓 known
+  - Garbage collection: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Unittesting kk
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
   - Kubernetes
   - GCC
   - LLVM
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
@@ -209,23 +209,23 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers: 🎓 known
+  - Kernel: 🎓 known
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: 🖐️ used
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🖐️ used
   - Escape sequence
-  - RFC
-  - IETF
+  - RFC: 🖐️ used
+  - IETF: 🎓 known
   - IANA
   - IEEE
   - Base64
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

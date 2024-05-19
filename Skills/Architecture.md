@@ -2,14 +2,14 @@
 
 - Application structure
   - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Components: 🎓 known
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability
-  - Quality
+  - Quality: 👂 heard
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code

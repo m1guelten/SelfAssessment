@@ -2,32 +2,32 @@
 
 - Theory
   - Event loop: 👂 heard
-  - `try..catch`: 🎓 known
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O: 👂 heard
-  - Thread pool
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue
+  - kqueue: 👂 heard
   - Completion ports
-  - Event ports
+  - Event ports: 👂 heard
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Promise: 👂 heard
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
@@ -35,7 +35,7 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal: 🎓 known
   - Stream
   - Chain of responsibility
   - Middleware
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library: 👂 heard
   - RxJS library
   - Promise.all
   - Promise.allSettled

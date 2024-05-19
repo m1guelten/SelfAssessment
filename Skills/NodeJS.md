@@ -6,14 +6,14 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
+  - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -62,22 +62,22 @@
 - Network
   - Endpoint throttling
   - ALPN
-  - SNI callback
+  - SNI callback: 👂 heard
   - SSL certificates
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
+  - TLS: 👂 heard
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing: 👂 heard
   - DoS
   - DDoS
   - XSS
@@ -98,8 +98,8 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
@@ -125,9 +125,9 @@
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - Native addons: 👂 heard
+  - `C` and `C++` addons: 🖐️ used
+  - `Rust` addons: 🎓 known
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
