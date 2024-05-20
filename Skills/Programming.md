@@ -3,8 +3,8 @@
 - Concepts
   - Model
   - Modeling
-  - Subject domain
-  - Algorithm: 👂 heard
+  - Subject domain: 👂 heard
+  - Algorithm: 🎓 known
   - Syntax: 👂 heard
   - Semantics: 👂 heard
   - Abstraction
@@ -15,12 +15,12 @@
   - Contract
   - Module: 👂 heard
   - Library: 🎓 known
-  - Package
-  - Component: 🎓 known
+  - Package: 👂 heard
+  - Component: 👂 heard
   - Framework: 🎓 known
   - Platform
   - Source code
-  - Object code
+  - Object code: 👂 heard
   - Machine code
   - Microcode: 🎓 known
   - Software engineering
@@ -32,8 +32,8 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value: 🎓 known
-  - Identifier: 🎓 known
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
   - Variable: 🖐️ used
   - Constant: 🖐️ used
   - Scalar: 🖐️ used
@@ -68,7 +68,7 @@
 - Types
   - Primitive types: 🎓 known
   - Reference types: 🎓 known
-  - Type systems: 🎓 known
+  - Type systems: 🖐️ used
   - Strong typing: 🎓 known
   - Weak typing
   - Duck typing
@@ -87,7 +87,7 @@
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 🖐️ used
-  - Closure: 🎓 known
+  - Closure: 🖐️ used
   - Partial application
   - Currying: 🎓 known
   - Higher order
@@ -98,8 +98,8 @@
   - Composition: 🎓 known
   - Pipe: 🎓 known
   - Memoize
-  - Wrapper: 🎓 known
-  - Functor: 🎓 known
+  - Wrapper: 🖐️ used
+  - Functor: 🖐️ used
   - Monad: 🎓 known
   - Monoid
   - Generator: 🖐️ used
@@ -108,25 +108,25 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record: 🖐️ used
-  - Enum: 🎓 known
+  - Enum: 🖐️ used
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table: 🎓 known
-  - Linked list: 🎓 known
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: 🎓 known
-  - Stack: 🎓 known
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
   - Deque
   - Tree: 🎓 known
   - Graph
-  - Iterator: 🎓 known
+  - Iterator: 🖐️ used
   - Mutable state: 🎓 known
   - Immutable state: 🎓 known
-  - Serialization
+  - Serialization: 🎓 known
   - String parsing
   - JSON: 🎓 known
   - JSON5
@@ -142,11 +142,11 @@
   - URN: 🖐️ used
   - URI: 🖐️ used
 - Process and tools
-  - Compiler: 🎓 known
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler: 👂 heard
+  - Linter: 👂 heard
   - Polyfill: 🎓 known
   - Interpreter: 🎓 known
   - Linker: 🎓 known
@@ -181,7 +181,7 @@
   - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code: 🖐️ used
   - Unreachable code
   - Duplicate code
   - Premature optimization

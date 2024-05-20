@@ -10,7 +10,7 @@
   - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
-  - `undefined`: 🎓 known
+  - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
@@ -18,36 +18,36 @@
   - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators: 👂 heard
-  - Iterators: 🎓 known
+  - Generators: 🎓 known
+  - Iterators: 🖐️ used
   - Async generator: 🎓 known
-  - Async iterator: 👂 heard
+  - Async iterator: 🎓 known
   - Chaining: 🎓 known
   - Optional chaining: 👂 heard
   - IIFE: 👂 heard
   - Async IIFE: 👂 heard
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
-  - `window`: 👂 heard
-  - Getters and setters: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 🖐️ used
   - `__proto__`: 🎓 known
   - `prototype`: 👂 heard
-  - Equality operators: 🎓 known
-  - Logical operators: 🎓 known
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment: 🎓 known
-  - Bitwise operators: 👂 heard
+  - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
-  - `void`: 🎓 known
+  - `void`: 🖐️ used
   - `yield`: 👂 heard
-  - `await`: 🎓 known
+  - `await`: 🖐️ used
   - Template literal: 👂 heard
   - Strict mode: 👂 heard
   - Hoisting: 👂 heard
-  - `delete`: 👂 heard
+  - `delete`: 🖐️ used
   - `in`: 🖐️ used
-  - `super`
-  - `eval`
-  - `static`: 👂 heard
+  - `super`: 👂 heard
+  - `eval`: 👂 heard
+  - `static`: 🎓 known
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
   - Property descriptors: 👂 heard
@@ -65,7 +65,7 @@
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`: 🎓 known
+  - `for await`: 🖐️ used
   - `throw`: 👂 heard
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
@@ -73,7 +73,7 @@
   - `export`: 🎓 known
   - `label`: 🎓 known
   - `try..catch`: 🖐️ used
-  - `switch`: 🎓 known
+  - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 👂 heard
   - `with`: 🖐️ used
@@ -81,7 +81,7 @@
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🎓 known
-  - Function declaration: 👂 heard
+  - Function declaration: 🎓 known
   - Function expression: 👂 heard
   - Default parameters: 🎓 known
   - Functional object: 🎓 known
@@ -102,15 +102,15 @@
   - `Proxy`: 🎓 known
   - `RegExp`: 🖐️ used
   - `Date`: 👂 heard
-  - `Math`: 👂 heard
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 👂 heard
   - `Atomics`: 👂 heard
   - `JSON`: 👂 heard
-  - `WeakRef`
+  - `WeakRef`: 👂 heard
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 👂 heard
+  - `Promise`: 🎓 known
   - `console`: 🖐️ used
   - Timers: 👂 heard
 - Infrastructure
@@ -118,5 +118,5 @@
   - Node.js: 👂 heard
   - npm: 🖐️ used
   - prettier: 🖐️ used
-  - MDN
+  - MDN: 👂 heard
   - TC39

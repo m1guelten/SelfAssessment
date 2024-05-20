@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming
-  - Structured programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming: 🎓 known
   - Functional programming: 🎓 known
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -25,7 +25,7 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 👂 heard
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -39,8 +39,8 @@
   - Inheritance: 🎓 known
   - Parent class
   - Polymorphism: 🎓 known
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
   - Object form
@@ -65,27 +65,27 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: 🎓 known
   - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
   - Proxy: 🎓 known
   - Chain of Responsibility
   - Command: 🎓 known
   - Iterator: 🖐️ used
   - State: 🎓 known
   - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
   - Flyweight
-  - Mediator
+  - Mediator: 👂 heard
   - Memento
   - Template Method
-  - Visitor
-  - Reactor
+  - Visitor: 👂 heard
+  - Reactor: 👂 heard
   - Active object
   - Delegation

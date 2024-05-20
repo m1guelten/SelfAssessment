@@ -1,24 +1,24 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components: 🎓 known
+  - Modularity: 🎓 known
+  - Components: 🖐️ used
   - Directories: 🖐️ used
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: 👂 heard
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 👂 heard
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability: 👂 heard
   - Quality: 👂 heard
   - Availability
   - Flexibility

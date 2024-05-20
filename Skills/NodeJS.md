@@ -4,14 +4,14 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
   - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🎓 known
+  - CommonJS modules: 🖐️ used
   - ECMAScript modules: 🎓 known
   - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
@@ -54,7 +54,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
+  - Module `node:url` vs `new URL`: 👂 heard
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
@@ -69,7 +69,7 @@
   - IncomingMessage
   - HTTP(S): 🎓 known
   - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
+  - UDP: 🖐️ used
   - TLS: 👂 heard
   - Websocket
   - SSE
@@ -96,7 +96,7 @@
   - CI/CD
   - Readable
   - Writable
-  - Transform
+  - Transform: 🎓 known
   - Back pressure
   - Buffer: 🖐️ used
   - Console: 🖐️ used
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 👂 heard
   - `error.cause`
   - `error.code`
   - `error.message`
