@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-322&nbsp;/&nbsp;660&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;696&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-322&nbsp;/&nbsp;660&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;696&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-322&nbsp;/&nbsp;660&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/m1guelten/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-336&nbsp;/&nbsp;696&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,10 +15,10 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `16` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `18` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `25` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `6` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `17` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `18` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `18` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `7` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `16` | `28` |
@@ -35,11 +35,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `9` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `10` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `11` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `2` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `4` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `6` | `11` |
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `2` | `17` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `3` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `5` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `2` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `3` | `14` |
@@ -57,8 +57,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `16` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `9` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `10` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `5` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `1` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
 
@@ -67,9 +67,7 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `...spread` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 👂 heard | ⟶  | 🖐️ used |
+| Template literal | 🎓 known | ⟶  | 🖐️ used |
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
 | `super` | 👂 heard | ⟶  | 🖐️ used |
 | Private class fields | 🤷 unknown | ⟶  | 🎓 known |
@@ -86,12 +84,10 @@
 | Timers | 👂 heard | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `54` of `72` skills, `18` to be upgraded, and `19` above needed
+Total: you have `56` of `72` skills, `16` to be upgraded, and `20` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `...spread` | 🎓 known | ⟶  | 🖐️ used |
-| `...rest` | 🎓 known | ⟶  | 🖐️ used |
 | Generators | 🎓 known | ⟶  | 🖐️ used |
 | Async generator | 🎓 known | ⟶  | 🖐️ used |
 | Async iterator | 🎓 known | ⟶  | 🖐️ used |
@@ -101,11 +97,10 @@ Total: you have `54` of `72` skills, `18` to be upgraded, and `19` above needed
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 🎓 known | ⟶  | 🖐️ used |
 | `yield` | 👂 heard | ⟶  | 🖐️ used |
-| Template literal | 👂 heard | ⟶  | 🖐️ used |
+| Template literal | 🎓 known | ⟶  | 🖐️ used |
 | Strict mode | 👂 heard | ⟶  | 🖐️ used |
 | `super` | 👂 heard | ⟶  | 🖐️ used |
 | `eval` | 👂 heard | ⟶  | 🎓 known |
-| `static` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseInt` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseFloat` | 🎓 known | ⟶  | 🖐️ used |
 | Property descriptors | 👂 heard | ⟶  | 🎓 known |
@@ -134,7 +129,7 @@ Total: you have `54` of `72` skills, `18` to be upgraded, and `19` above needed
 | Timers | 👂 heard | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `55` of `98` skills, `43` to be upgraded, and `8` above needed
+Total: you have `58` of `98` skills, `40` to be upgraded, and `10` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -143,8 +138,7 @@ Total: you have `55` of `98` skills, `43` to be upgraded, and `8` above needed
 | --- | --- | --- | --- |
 | Non-blocking | 🤷 unknown | ⟶  | 👂 heard |
 | Race conditions | 🤷 unknown | ⟶  | 🎓 known |
-| Callback-last-error-first | 👂 heard | ⟶  | 🖐️ used |
-| Promise | 👂 heard | ⟶  | 🖐️ used |
+| Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🎓 known |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
 | Async Iterator | 👂 heard | ⟶  | 🎓 known |
@@ -155,14 +149,12 @@ Total: you have `55` of `98` skills, `43` to be upgraded, and `8` above needed
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
-| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 🤷 unknown | ⟶  | 🖐️ used |
-| Writable | 🤷 unknown | ⟶  | 🖐️ used |
+| Readable | 👂 heard | ⟶  | 🖐️ used |
+| Writable | 👂 heard | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Pool | 🤷 unknown | ⟶  | 🎓 known |
 | Async Queue | 🤷 unknown | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | `nextTick` | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
@@ -175,18 +167,17 @@ Total: you have `55` of `98` skills, `43` to be upgraded, and `8` above needed
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
 | AsyncResource | 🤷 unknown | ⟶  | 👂 heard |
-| Promise.all | 👂 heard | ⟶  | 🖐️ used |
+| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
-| Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
+| Revealing constructor | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `10` of `50` skills, `40` to be upgraded, and `3` above needed
+Total: you have `13` of `50` skills, `37` to be upgraded, and `5` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Promise | 👂 heard | ⟶  | 🖐️ used |
 | Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | Event | 👂 heard | ⟶  | 🖐️ used |
 | Stream | 🤷 unknown | ⟶  | 🎓 known |
@@ -196,14 +187,12 @@ Total: you have `10` of `50` skills, `40` to be upgraded, and `3` above needed
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
-| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 🤷 unknown | ⟶  | 🎓 known |
-| Writable | 🤷 unknown | ⟶  | 🎓 known |
+| Readable | 👂 heard | ⟶  | 🎓 known |
+| Writable | 👂 heard | ⟶  | 🎓 known |
 | Transform | 🤷 unknown | ⟶  | 🎓 known |
 | Async Pool | 🤷 unknown | ⟶  | 🎓 known |
 | Async Queue | 🤷 unknown | ⟶  | 🎓 known |
 | Async Collector | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | `nextTick` | 🤷 unknown | ⟶  | 👂 heard |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
@@ -213,13 +202,12 @@ Total: you have `10` of `50` skills, `40` to be upgraded, and `3` above needed
 | Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
-| Promise.all | 👂 heard | ⟶  | 🖐️ used |
+| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
-| Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
+Total: you have `9` of `37` skills, `28` to be upgraded, and `1` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -237,9 +225,8 @@ Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
 | Actor Model | 🤷 unknown | ⟶  | 🎓 known |
 | Thread | 🎓 known | ⟶  | 🖐️ used |
 | Process | 🎓 known | ⟶  | 🖐️ used |
-| Callback-last-error-first | 👂 heard | ⟶  | 🖐️ used |
-| Thenable | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise | 👂 heard | ⟶  | 🖐️ used |
+| Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
+| Thenable | 👂 heard | ⟶  | 🖐️ used |
 | Deferred | 🤷 unknown | ⟶  | 👂 heard |
 | Sync generator | 👂 heard | ⟶  | 🖐️ used |
 | Async Generator | 👂 heard | ⟶  | 🖐️ used |
@@ -255,25 +242,20 @@ Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
 | callbackify | 🤷 unknown | ⟶  | 🖐️ used |
 | promisify | 🤷 unknown | ⟶  | 🖐️ used |
 | asyncify | 🤷 unknown | ⟶  | 🖐️ used |
-| EventEmitter | 👂 heard | ⟶  | 🖐️ used |
-| Observable/Observer | 👂 heard | ⟶  | 🖐️ used |
-| Readable | 🤷 unknown | ⟶  | 🖐️ used |
-| Writable | 🤷 unknown | ⟶  | 🖐️ used |
+| Readable | 👂 heard | ⟶  | 🖐️ used |
+| Writable | 👂 heard | ⟶  | 🖐️ used |
 | Transform | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Pool | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Queue | 🤷 unknown | ⟶  | 🖐️ used |
 | Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
 | Mutex | 👂 heard | ⟶  | 🎓 known |
 | Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
-| Timers | 👂 heard | ⟶  | 🖐️ used |
 | `setImmediate` | 🤷 unknown | ⟶  | 🖐️ used |
 | `nextTick` | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise unhandled rejection | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
-| Atomics | 👂 heard | ⟶  | 🎓 known |
 | High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
 | Callback hell | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise hell | 🤷 unknown | ⟶  | 🖐️ used |
@@ -283,16 +265,16 @@ Total: you have `5` of `37` skills, `32` to be upgraded, and `0` above needed
 | JSON streaming serialization | 🤷 unknown | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |
 | AsyncResource | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise.all | 👂 heard | ⟶  | 🖐️ used |
+| Promise.all | 🎓 known | ⟶  | 🖐️ used |
 | Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.race | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
 | Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
 | IPC | 🤷 unknown | ⟶  | 🎓 known |
-| Channel API | 🤷 unknown | ⟶  | 🎓 known |
-| Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
+| Channel API | 👂 heard | ⟶  | 🎓 known |
+| Revealing constructor | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `7` of `75` skills, `68` to be upgraded, and `0` above needed
+Total: you have `13` of `75` skills, `62` to be upgraded, and `2` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 

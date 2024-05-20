@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming u
-  - Imperative programming h
-  - Structured programming h
-  - Non-structured programming k
-  - Functional programming k
-  - Prototype-based programming k
-  - Object-oriented programming u
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming u
-  - Parallel programming k
-  - Reactive programming k
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -25,22 +25,22 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method k
-  - Getters, Setters u
-  - Public fields u
-  - Private fields k
-  - Field declarations k
-  - Inheritance k
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
   - Parent class
-  - Polymorphism k
-  - Abstract class u
-  - Interface u
+  - Polymorphism: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation
   - Hidden class
   - Object form
@@ -50,9 +50,9 @@
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator k
-  - Controller k
-  - Indirection k
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
   - Low coupling
   - High cohesion
   - Protected variations
@@ -65,27 +65,27 @@
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method k
+  - Factory Method: 🎓 known
   - Abstract Factory
-  - Adapter h
-  - Observer u
-  - Strategy h
-  - Facade h
-  - Proxy u
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 🖐️ used
   - Chain of Responsibility
-  - Command u
-  - Iterator u
-  - State k
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🎓 known
   - Bridge
-  - Builder u
-  - Prototype u
-  - Composite u
-  - Decorator u
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
   - Flyweight
-  - Mediator h
+  - Mediator: 👂 heard
   - Memento
   - Template Method
-  - Visitor h
-  - Reactor h
+  - Visitor: 👂 heard
+  - Reactor: 👂 heard
   - Active object
   - Delegation

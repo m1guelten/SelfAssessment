@@ -1,41 +1,41 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: h
-  - `try..catch`: u
+  - Event loop: 👂 heard
+  - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O: u
-  - Thread pool h
+  - Async I/O: 🖐️ used
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue h
+  - kqueue: 👂 heard
   - Completion ports
-  - Event ports h
+  - Event ports: 👂 heard
   - libuv
   - Race conditions
-  - Dead locks h
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread k
-  - Process k
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first k
-  - Thenable h
-  - Promise u
-  - Async/await u
-  - Future h
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 👂 heard
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event h
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
-  - Signal k
+  - Signal: 🎓 known
   - Stream
   - Chain of responsibility
   - Middleware
@@ -44,29 +44,29 @@
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose u
-  - Async compose u
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
-  - EventEmitter u
-  - Observable/Observer u
-  - Readable h
-  - Writable h
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore u
-  - Mutex h
+  - Semaphore: 🖐️ used
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics k
+  - Atomics: 🎓 known
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,13 +77,13 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library k
-  - RxJS library h
-  - Promise.all k
+  - Async.js library: 🎓 known
+  - RxJS library: 👂 heard
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API h
-  - Revealing constructor h
+  - Channel API: 👂 heard
+  - Revealing constructor: 👂 heard
