@@ -2,54 +2,54 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function` u
+  - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: u
+  - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
-  - `undefined`: u
+  - `undefined`: 🖐️ used
   - `null`: 🖐️ used
-  - `this`: u
-  - `instanceof`: u
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
   - `...spread`: 🎓 known
   - `...rest`: 🎓 known
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators k
-  - Iterators: u
+  - Generators: 🎓 known
+  - Iterators: 🖐️ used
   - Async generator: 🎓 known
-  - Async iterator: k
-  - Chaining: k
-  - Optional chaining h
-  - IIFE h
-  - Async IIFE h
-  - `global` k
-  - `globalThis` k
-  - `window`: k
-  - Getters and setters: u
-  - `__proto__` k
-  - `prototype` h
-  - Equality operators: u
-  - Logical operators: u
+  - Async iterator: 🎓 known
+  - Chaining: 🎓 known
+  - Optional chaining: 👂 heard
+  - IIFE: 👂 heard
+  - Async IIFE: 👂 heard
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 🖐️ used
+  - `__proto__`: 🎓 known
+  - `prototype`: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment: 🎓 known
-  - Bitwise operators: k
+  - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
-  - `void`: u
-  - `yield` h
-  - `await`: u
+  - `void`: 🖐️ used
+  - `yield`: 👂 heard
+  - `await`: 🖐️ used
   - Template literal: 👂 heard
-  - Strict mode h
-  - Hoisting h
-  - `delete` u
-  - `in`: u
-  - `super` h
-  - `eval` h
-  - `static`: k
-  - `Number.parseInt`: k
-  - `Number.parseFloat`: k
+  - Strict mode: 👂 heard
+  - Hoisting: 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 👂 heard
+  - `eval`: 👂 heard
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
   - Property descriptors: 👂 heard
   - Sealing properties
   - Freezing properties
@@ -60,28 +60,28 @@
   - Private class methods
 - Statements
   - `if`: 🖐️ used
-  - `while`: u
+  - `while`: 🖐️ used
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`: u
+  - `for await`: 🖐️ used
   - `throw`: 👂 heard
-  - `break`: u
-  - `continue`: u
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🎓 known
-  - `label`: k
-  - `try..catch`: u
-  - `switch`: u
-  - `class`: u
+  - `label`: 🎓 known
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
   - `extends`: 👂 heard
   - `with`: 🖐️ used
-  - `new` h
+  - `new`: 👂 heard
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🎓 known
-  - Function declaration: k
+  - Function declaration: 🎓 known
   - Function expression: 👂 heard
   - Default parameters: 🎓 known
   - Functional object: 🎓 known
@@ -91,32 +91,32 @@
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: u
-  - `Set`: u
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
   - Typed arrays: 🎓 known
-  - Mixins: k
+  - Mixins: 🎓 known
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
-  - `Proxy`: k
+  - `Proxy`: 🎓 known
   - `RegExp`: 🖐️ used
-  - `Date` h
-  - `Math` u
+  - `Date`: 👂 heard
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` h
-  - `Atomics` h
+  - `Error`: 👂 heard
+  - `Atomics`: 👂 heard
   - `JSON`: 👂 heard
-  - `WeakRef` h
+  - `WeakRef`: 👂 heard
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: k
+  - `Promise`: 🎓 known
   - `console`: 🖐️ used
   - Timers: 👂 heard
 - Infrastructure
   - V8
   - Node.js: 👂 heard
-  - npm: u
-  - prettier: u
-  - MDN h
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 👂 heard
   - TC39
