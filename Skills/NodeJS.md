@@ -4,16 +4,16 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases h
   - Event loop microtasks and macrotasks
-  - Garbage collection: 🎓 known
+  - Garbage collection k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🎓 known
-  - ECMAScript modules: 🎓 known
-  - Module `node:module`: 👂 heard
+  - CommonJS modules u
+  - ECMAScript modules k
+  - Module `node:module` h
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI: 👂 heard
+  - Command line arguments h
+  - Node.js CLI h
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -54,7 +54,7 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
+  - Module `node:url` vs `new URL` h
   - Module `node:assert`
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
@@ -62,22 +62,22 @@
 - Network
   - Endpoint throttling
   - ALPN
-  - SNI callback: 👂 heard
+  - SNI callback h
   - SSL certificates
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S): 🎓 known
-  - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
-  - TLS: 👂 heard
+  - HTTP(S) k
+  - TCP/SSL h
+  - UDP u
+  - TLS h
   - Websocket
   - SSE
-  - HTTP/3 (QUIC): 👂 heard
+  - HTTP/3 (QUIC) h
   - Long polling
   - REST
   - RPC
-  - Routing: 👂 heard
+  - Routing h
   - DoS
   - DDoS
   - XSS
@@ -96,10 +96,10 @@
   - CI/CD
   - Readable
   - Writable
-  - Transform
+  - Transform k
   - Back pressure
-  - Buffer: 🖐️ used
-  - Console: 🖐️ used
+  - Buffer u
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -110,7 +110,7 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` h
   - `error.cause`
   - `error.code`
   - `error.message`
@@ -125,9 +125,9 @@
   - Resource leaks
   - Data race
 - Integrations and bindings
-  - Native addons: 👂 heard
-  - `C` and `C++` addons: 🖐️ used
-  - `Rust` addons: 🎓 known
+  - Native addons h
+  - `C` and `C++` addons u
+  - `Rust` addons k
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)

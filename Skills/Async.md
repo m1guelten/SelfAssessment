@@ -1,41 +1,41 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - `try..catch`: 🖐️ used
+  - Event loop: h
+  - `try..catch`: u
   - Non-blocking
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Async I/O: k
+  - Thread pool h
   - Pattern Reactor
   - CAS operations
   - epoll
-  - kqueue: 👂 heard
+  - kqueue h
   - Completion ports
-  - Event ports: 👂 heard
+  - Event ports h
   - libuv
   - Race conditions
-  - Dead locks: 👂 heard
+  - Dead locks h
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread k
+  - Process k
 - Async contracts
-  - Callbacks: 🖐️ used
-  - Callback-last-error-first
+  - Callbacks u
+  - Callback-last-error-first h
   - Thenable
-  - Promise: 👂 heard
-  - Async/await: 🖐️ used
-  - Future: 👂 heard
+  - Promise h
+  - Async/await u
+  - Future h
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator h
+  - Async Generator h
+  - Async Iterator h
+  - Event h
   - Coroutine
   - Goroutine
-  - Signal: 🎓 known
+  - Signal k
   - Stream
   - Chain of responsibility
   - Middleware
@@ -44,29 +44,29 @@
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose
-  - Async compose
+  - Callbacks compose h
+  - Async compose h
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter h
+  - Observable/Observer h
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore h
+  - Mutex h
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers h
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics h
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,9 +77,9 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library: 👂 heard
-  - RxJS library
-  - Promise.all
+  - Async.js library h
+  - RxJS library h
+  - Promise.all h
   - Promise.allSettled
   - Promise.race
   - Promise.any

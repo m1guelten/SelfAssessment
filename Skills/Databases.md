@@ -1,11 +1,11 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🎓 known
+  - Data types k
   - Performance tuning
-  - Migrations: 👂 heard
+  - Migrations h
   - Schema versioning
-  - Backup and recovery
+  - Backup and recoverh
   - Database scalability
   - Relational databases
   - Key-value store
@@ -23,30 +23,30 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms
+  - Normal forms h
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys u
+  - Foreign keys u
   - Transactions
-  - Views
+  - Views h
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions u
   - Materialized views
-  - Replications
-  - Virtualization
+  - Replications u
+  - Virtualization u
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
+  - `SELECT` h
+  - `INSERT` h
+  - `UPDATE` h
+  - `DELETE` h
+  - `LIMIT` h
+  - `OFFSET` h
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` u
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` h
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `PRIMARY KEY` h
+  - `FOREIGN KEY` h
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL u
+  - Oracle h
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
