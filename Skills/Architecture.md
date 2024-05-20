@@ -4,10 +4,10 @@
   - Modularity k
   - Components u
   - Directories u
-  - GRASP k
-  - SOLID k
+  - GRASP u
+  - SOLID u
   - GoF patterns
-  - CQS
+  - CQS h
   - Leaking abstractions
   - Multiparadigm code k
   - Contract programming
@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability h
-  - Quality h
+  - Quality u
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -51,15 +51,15 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways h
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS h
+  - PaaS h
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor h
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions

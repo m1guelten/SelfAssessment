@@ -4,20 +4,20 @@
   - Model
   - Modeling
   - Subject domain h
-  - Algorithm: k
+  - Algorithm: u
   - Syntax: 👂 heard
-  - Semantics: 👂 heard
-  - Abstraction
-  - Paradigm: 👂 heard
+  - Semantics: k
+  - Abstraction h
+  - Paradigm: k
   - Programm: 👂 heard
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module: 👂 heard
-  - Library k
+  - Library u
   - Package h
   - Component h
-  - Framework k
+  - Framework u
   - Platform
   - Source code
   - Object code h
@@ -45,11 +45,11 @@
   - Method u
   - Class u
   - Prototype u
-  - Event k
+  - Event u
   - Type u
   - Flag u
   - Lexical scope k
-  - Code block k
+  - Code block u
   - Conditions k
   - Loops k
   - Assignment u
@@ -91,13 +91,13 @@
   - Partial application
   - Currying k
   - Higher order
-  - Recursion k
+  - Recursion u
   - Tail call optimisation
   - Callback u
   - Listener u
   - Composition k
   - Pipe k
-  - Memoize
+  - Memoize h
   - Wrapper u
   - Functor u
   - Monad k
@@ -149,7 +149,7 @@
   - Linter h
   - Polyfill k
   - Interpreter k
-  - Linker k
+  - Linker h
   - Dynamic linking k
   - Static linking
   - Runtime
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti h
+  - Spaghetti k
   - Silver bullet
   - Not invented here
   - Dead code u

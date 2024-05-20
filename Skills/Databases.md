@@ -37,9 +37,9 @@
   - Virtualization u
 - SQL
   - `SELECT` h
-  - `INSERT` h
-  - `UPDATE` h
-  - `DELETE` h
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT` h
   - `OFFSET` h
   - `ORDER BY`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL u
   - Oracle h
-  - MySQL h
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis

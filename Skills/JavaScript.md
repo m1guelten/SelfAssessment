@@ -14,8 +14,8 @@
   - `null`: 🖐️ used
   - `this`: u
   - `instanceof`: u
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread`: u
+  - `...rest`: u
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators k
@@ -30,24 +30,24 @@
   - `globalThis` k
   - `window`: k
   - Getters and setters: u
-  - `__proto__` k
-  - `prototype` h
+  - `__proto__` u
+  - `prototype` k
   - Equality operators: u
   - Logical operators: u
-  - Logical Assignment: 🎓 known
+  - Logical Assignment: u
   - Bitwise operators: k
   - Ternary operator: 🖐️ used
   - `void`: u
   - `yield` h
   - `await`: u
-  - Template literal: 👂 heard
+  - Template literal: k
   - Strict mode h
-  - Hoisting h
+  - Hoisting k
   - `delete` u
   - `in`: u
   - `super` h
   - `eval` h
-  - `static`: k
+  - `static`: u
   - `Number.parseInt`: k
   - `Number.parseFloat`: k
   - Property descriptors: 👂 heard
@@ -93,8 +93,8 @@
   - `Array`: 🖐️ used
   - `Map`: u
   - `Set`: u
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
+  - `WeakMap`: u
+  - `WeakSet`: u
   - Typed arrays: 🎓 known
   - Mixins: k
   - `Object.assign`: 👂 heard

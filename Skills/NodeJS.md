@@ -4,7 +4,7 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases h
+  - Event loop phases k
   - Event loop microtasks and macrotasks
   - Garbage collection k
   - Node.js LTS schedule

@@ -11,7 +11,7 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming k
+  - Asynchronous programming u
   - Parallel programming k
   - Reactive programming k
   - Functional-reactive (FRP)
@@ -68,12 +68,12 @@
   - Factory Method k
   - Abstract Factory
   - Adapter h
-  - Observer h
+  - Observer u
   - Strategy h
   - Facade h
-  - Proxy k
+  - Proxy u
   - Chain of Responsibility
-  - Command k
+  - Command u
   - Iterator u
   - State k
   - Bridge

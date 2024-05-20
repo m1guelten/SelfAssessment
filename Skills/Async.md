@@ -4,7 +4,7 @@
   - Event loop: h
   - `try..catch`: u
   - Non-blocking
-  - Async I/O: k
+  - Async I/O: u
   - Thread pool h
   - Pattern Reactor
   - CAS operations
@@ -23,9 +23,9 @@
   - Process k
 - Async contracts
   - Callbacks u
-  - Callback-last-error-first h
-  - Thenable
-  - Promise h
+  - Callback-last-error-first k
+  - Thenable h
+  - Promise u
   - Async/await u
   - Future h
   - Deferred
@@ -44,29 +44,29 @@
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose h
-  - Async compose h
+  - Callbacks compose u
+  - Async compose u
 - Async abstractions interfaces
-  - EventEmitter h
-  - Observable/Observer h
-  - Readable
-  - Writable
+  - EventEmitter u
+  - Observable/Observer u
+  - Readable h
+  - Writable h
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore h
+  - Semaphore u
   - Mutex h
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers u
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics h
+  - Atomics k
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,13 +77,13 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library h
+  - Async.js library k
   - RxJS library h
-  - Promise.all h
+  - Promise.all k
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API
-  - Revealing constructor
+  - Channel API h
+  - Revealing constructor h
