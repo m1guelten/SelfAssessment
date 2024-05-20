@@ -37,9 +37,9 @@
   - Virtualization: 🖐️ used
 - SQL
   - `SELECT`: 👂 heard
-  - `INSERT`: 👂 heard
-  - `UPDATE`: 👂 heard
-  - `DELETE`: 👂 heard
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`: 👂 heard
   - `OFFSET`: 👂 heard
   - `ORDER BY`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL: 🖐️ used
   - Oracle: 👂 heard
-  - MySQL: 👂 heard
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis

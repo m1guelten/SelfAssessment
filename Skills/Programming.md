@@ -4,20 +4,20 @@
   - Model
   - Modeling
   - Subject domain: 👂 heard
-  - Algorithm: 🎓 known
+  - Algorithm: 🖐️ used
   - Syntax: 👂 heard
-  - Semantics: 👂 heard
-  - Abstraction
-  - Paradigm: 👂 heard
+  - Semantics: 🎓 known
+  - Abstraction: 👂 heard
+  - Paradigm: 🎓 known
   - Programm: 👂 heard
   - Programming paradigm
-  - Programming language
+  - Programming language: 👂 heard
   - Contract
   - Module: 👂 heard
-  - Library: 🎓 known
+  - Library: 🖐️ used
   - Package: 👂 heard
   - Component: 👂 heard
-  - Framework: 🎓 known
+  - Framework: 🖐️ used
   - Platform
   - Source code
   - Object code: 👂 heard
@@ -45,11 +45,11 @@
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype: 🖐️ used
-  - Event: 🎓 known
+  - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
   - Lexical scope: 🎓 known
-  - Code block: 🎓 known
+  - Code block: 🖐️ used
   - Conditions: 🎓 known
   - Loops: 🎓 known
   - Assignment: 🖐️ used
@@ -91,13 +91,13 @@
   - Partial application
   - Currying: 🎓 known
   - Higher order
-  - Recursion: 🎓 known
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: 🎓 known
   - Pipe: 🎓 known
-  - Memoize
+  - Memoize: 👂 heard
   - Wrapper: 🖐️ used
   - Functor: 🖐️ used
   - Monad: 🎓 known
@@ -149,7 +149,7 @@
   - Linter: 👂 heard
   - Polyfill: 🎓 known
   - Interpreter: 🎓 known
-  - Linker: 🎓 known
+  - Linker: 👂 heard
   - Dynamic linking: 🎓 known
   - Static linking
   - Runtime
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 👂 heard
+  - Spaghetti: 🎓 known
   - Silver bullet
   - Not invented here
   - Dead code: 🖐️ used

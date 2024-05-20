@@ -4,7 +4,7 @@
   - Event loop: 👂 heard
   - `try..catch`: 🖐️ used
   - Non-blocking
-  - Async I/O: 🎓 known
+  - Async I/O: 🖐️ used
   - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
@@ -23,9 +23,9 @@
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 👂 heard
-  - Thenable
-  - Promise: 👂 heard
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 👂 heard
+  - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future: 👂 heard
   - Deferred
@@ -44,29 +44,29 @@
   - callbackify
   - promisify
   - asyncify
-  - Callbacks compose: 👂 heard
-  - Async compose: 👂 heard
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
-  - Observable/Observer: 👂 heard
-  - Readable
-  - Writable
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore: 👂 heard
+  - Semaphore: 🖐️ used
   - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics: 👂 heard
+  - Atomics: 🎓 known
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,13 +77,13 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library: 👂 heard
+  - Async.js library: 🎓 known
   - RxJS library: 👂 heard
-  - Promise.all: 👂 heard
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API
-  - Revealing constructor
+  - Channel API: 👂 heard
+  - Revealing constructor: 👂 heard

@@ -11,7 +11,7 @@
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: 🎓 known
+  - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
@@ -68,12 +68,12 @@
   - Factory Method: 🎓 known
   - Abstract Factory
   - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Observer: 🖐️ used
   - Strategy: 👂 heard
   - Facade: 👂 heard
-  - Proxy: 🎓 known
+  - Proxy: 🖐️ used
   - Chain of Responsibility
-  - Command: 🎓 known
+  - Command: 🖐️ used
   - Iterator: 🖐️ used
   - State: 🎓 known
   - Bridge

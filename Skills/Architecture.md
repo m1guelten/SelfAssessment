@@ -4,10 +4,10 @@
   - Modularity: 🎓 known
   - Components: 🖐️ used
   - Directories: 🖐️ used
-  - GRASP: 🎓 known
-  - SOLID: 🎓 known
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
   - GoF patterns
-  - CQS
+  - CQS: 👂 heard
   - Leaking abstractions
   - Multiparadigm code: 🎓 known
   - Contract programming
@@ -19,7 +19,7 @@
   - Coupling
   - Cyclomatic complexity
   - Reliability: 👂 heard
-  - Quality: 👂 heard
+  - Quality: 🖐️ used
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
@@ -51,15 +51,15 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways: 👂 heard
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions

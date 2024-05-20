@@ -14,8 +14,8 @@
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
   - Generators: 🎓 known
@@ -30,24 +30,24 @@
   - `globalThis`: 🎓 known
   - `window`: 🎓 known
   - Getters and setters: 🖐️ used
-  - `__proto__`: 🎓 known
-  - `prototype`: 👂 heard
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🎓 known
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment: 🎓 known
+  - Logical Assignment: 🖐️ used
   - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`: 👂 heard
   - `await`: 🖐️ used
-  - Template literal: 👂 heard
+  - Template literal: 🎓 known
   - Strict mode: 👂 heard
-  - Hoisting: 👂 heard
+  - Hoisting: 🎓 known
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 👂 heard
   - `eval`: 👂 heard
-  - `static`: 🎓 known
+  - `static`: 🖐️ used
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
   - Property descriptors: 👂 heard
@@ -93,8 +93,8 @@
   - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
+  - `WeakMap`: 🖐️ used
+  - `WeakSet`: 🖐️ used
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 👂 heard
