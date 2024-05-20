@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: 🎓 known
+  - Data types k
   - Performance tuning
-  - Migrations: 👂 heard
+  - Migrations h
   - Schema versioning
   - Backup and recoverh
   - Database scalability
@@ -23,30 +23,30 @@
   - Data query language (DQL)
 - Relational
   - Entity-Relationship Diagram
-  - Normal forms: 👂 heard
+  - Normal forms h
   - Indexing
-  - Primary keys: 🖐️ used
-  - Foreign keys: 🖐️ used
+  - Primary keys u
+  - Foreign keys u
   - Transactions
-  - Views: 👂 heard
+  - Views h
   - Subqueries
   - Stored procedures
-  - SQL functions: 🖐️ used
+  - SQL functions u
   - Materialized views
-  - Replications: 🖐️ used
-  - Virtualization: 🖐️ used
+  - Replications u
+  - Virtualization u
 - SQL
-  - `SELECT`: 👂 heard
-  - `INSERT`: 👂 heard
-  - `UPDATE`: 👂 heard
-  - `DELETE`: 👂 heard
-  - `LIMIT`: 👂 heard
-  - `OFFSET`: 👂 heard
+  - `SELECT` h
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` h
+  - `OFFSET` h
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`: 🖐️ used
+  - `JOIN` u
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`: 👂 heard
+  - `CREATE TABLE` h
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`: 👂 heard
-  - `FOREIGN KEY`: 👂 heard
+  - `PRIMARY KEY` h
+  - `FOREIGN KEY` h
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,9 +70,9 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL: 🖐️ used
-  - Oracle: 👂 heard
-  - MySQL: 👂 heard
+  - PostgreSQL u
+  - Oracle h
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis

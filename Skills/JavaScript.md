@@ -2,54 +2,54 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
+  - `Function` u
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: 🖐️ used
+  - `BigInt`: u
   - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
+  - `undefined`: u
   - `null`: 🖐️ used
-  - `this`: 🖐️ used
-  - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `this`: u
+  - `instanceof`: u
+  - `...spread`: u
+  - `...rest`: u
   - `typeof`: 🖐️ used
   - Destructuring: 🖐️ used
-  - Generators: 🎓 known
-  - Iterators: 🖐️ used
+  - Generators k
+  - Iterators: u
   - Async generator: 🎓 known
-  - Async iterator: 🎓 known
-  - Chaining: 🎓 known
-  - Optional chaining: 👂 heard
-  - IIFE: 👂 heard
-  - Async IIFE: 👂 heard
-  - `global`: 🎓 known
-  - `globalThis`: 🎓 known
-  - `window`: 🎓 known
-  - Getters and setters: 🖐️ used
-  - `__proto__`: 🎓 known
-  - `prototype`: 👂 heard
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
-  - Logical Assignment: 🎓 known
-  - Bitwise operators: 🎓 known
+  - Async iterator: k
+  - Chaining: k
+  - Optional chaining h
+  - IIFE h
+  - Async IIFE h
+  - `global` k
+  - `globalThis` k
+  - `window`: k
+  - Getters and setters: u
+  - `__proto__` u
+  - `prototype` k
+  - Equality operators: u
+  - Logical operators: u
+  - Logical Assignment: u
+  - Bitwise operators: k
   - Ternary operator: 🖐️ used
-  - `void`: 🖐️ used
-  - `yield`: 👂 heard
-  - `await`: 🖐️ used
-  - Template literal: 👂 heard
-  - Strict mode: 👂 heard
-  - Hoisting: 👂 heard
-  - `delete`: 🖐️ used
-  - `in`: 🖐️ used
-  - `super`: 👂 heard
-  - `eval`: 👂 heard
-  - `static`: 🎓 known
-  - `Number.parseInt`: 🎓 known
-  - `Number.parseFloat`: 🎓 known
+  - `void`: u
+  - `yield` h
+  - `await`: u
+  - Template literal: k
+  - Strict mode h
+  - Hoisting k
+  - `delete` u
+  - `in`: u
+  - `super` h
+  - `eval` h
+  - `static`: u
+  - `Number.parseInt`: k
+  - `Number.parseFloat`: k
   - Property descriptors: 👂 heard
   - Sealing properties
   - Freezing properties
@@ -60,28 +60,28 @@
   - Private class methods
 - Statements
   - `if`: 🖐️ used
-  - `while`: 🖐️ used
+  - `while`: u
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`: 🖐️ used
+  - `for await`: u
   - `throw`: 👂 heard
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
+  - `break`: u
+  - `continue`: u
   - `import`: 🖐️ used
   - `export`: 🎓 known
-  - `label`: 🎓 known
-  - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
+  - `label`: k
+  - `try..catch`: u
+  - `switch`: u
+  - `class`: u
   - `extends`: 👂 heard
   - `with`: 🖐️ used
-  - `new`: 👂 heard
+  - `new` h
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🎓 known
-  - Function declaration: 🎓 known
+  - Function declaration: k
   - Function expression: 👂 heard
   - Default parameters: 🎓 known
   - Functional object: 🎓 known
@@ -91,32 +91,32 @@
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
+  - `Map`: u
+  - `Set`: u
+  - `WeakMap`: u
+  - `WeakSet`: u
   - Typed arrays: 🎓 known
-  - Mixins: 🎓 known
+  - Mixins: k
   - `Object.assign`: 👂 heard
 - Standard classes and namespaces
-  - `Proxy`: 🎓 known
+  - `Proxy`: k
   - `RegExp`: 🖐️ used
-  - `Date`: 👂 heard
-  - `Math`: 🖐️ used
+  - `Date` h
+  - `Math` u
   - `Reflect`
-  - `Error`: 👂 heard
-  - `Atomics`: 👂 heard
+  - `Error` h
+  - `Atomics` h
   - `JSON`: 👂 heard
-  - `WeakRef`: 👂 heard
+  - `WeakRef` h
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`: 🎓 known
+  - `Promise`: k
   - `console`: 🖐️ used
   - Timers: 👂 heard
 - Infrastructure
   - V8
   - Node.js: 👂 heard
-  - npm: 🖐️ used
-  - prettier: 🖐️ used
-  - MDN: 👂 heard
+  - npm: u
+  - prettier: u
+  - MDN h
   - TC39
